@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\SlidingWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\SlidingWindow.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\SlidingWindow.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\SlidingWindow.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\bin\Debug\net10.0\SlidingWindow.exe
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\bin\Debug\net10.0\SlidingWindow.deps.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\bin\Debug\net10.0\SlidingWindow.runtimeconfig.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\bin\Debug\net10.0\SlidingWindow.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\bin\Debug\net10.0\SlidingWindow.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\SlidingWindow.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\refint\SlidingWindow.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\SlidingWindow.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\SlidingWindow.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SlidingWindow\obj\Debug\net10.0\ref\SlidingWindow.dll

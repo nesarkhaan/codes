@@ -1,0 +1,89 @@
+using System;
+using System.Collections.Generic;
+using System.Security.Cryptography;
+using System.Text;
+
+namespace MerkleTree;
+
+class Hashing
+{
+    public string GetHash(string StringDataToHash)
+    {
+        using (SHA256 CreateHash256 = SHA256.Create())
+        {
+            byte[] bytes = CreateHash256.ComputeHash(Encoding.UTF8.GetBytes(StringDataToHash));
+            StringBuilder HashString = new StringBuilder();
+
+            for (int i = 0; i < bytes.Length; i++)
+            {
+                HashString.Append(bytes[i].ToString("x2"));
+            }
+            return HashString.ToString();
+        }
+    }
+
+    public string CombineHashes(string firsthash, string secondhash)
+    {
+        return GetHash(firsthash + secondhash);
+    }
+
+    // This method takes a list of raw transaction data/strings and builds the root
+    public string BuildMerkleRoot(List<string> rawDataList)
+    {
+        if (rawDataList == null || rawDataList.Count == 0) 
+            return string.Empty;
+
+        // Step 1: Hash all individual data blocks to create the initial "Leaves" layer
+        List<string> currentLayer = new List<string>();
+        foreach (string data in rawDataList)
+        {
+            currentLayer.Add(GetHash(data));
+        }
+
+        // Step 2: Keep combining layers until only 1 hash (the Root) is left
+        while (currentLayer.Count > 1)
+        {
+            List<string> nextLayer = new List<string>();
+
+            for (int i = 0; i < currentLayer.Count; i += 2)
+            {
+                // If there's a pair available, use it. 
+                // If it's an odd element out, duplicate it (pair it with itself).
+                string left = currentLayer[i];
+                string right = (i + 1 < currentLayer.Count) ? currentLayer[i + 1] : currentLayer[i];
+
+                string parentHash = CombineHashes(left, right);
+                nextLayer.Add(parentHash);
+            }
+
+            // Move up to the newly created layer
+            currentLayer = nextLayer;
+        }
+
+        // The remaining single hash is the Merkle Root
+        return currentLayer[0];
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Hashing hashIt = new Hashing();
+
+        // Let's simulate a block of 3 data inputs (an odd number to test duplication logic)
+        List<string> transactions = new List<string> 
+        { 
+            "Alice pays Bob 10 BTC", 
+            "Ajmal is funny", 
+            "Charlie pays Dave 5 BTC" 
+        };
+
+        Console.WriteLine("--- Merkle Tree Generation ---");
+        Console.WriteLine($"Processing {transactions.Count} items...\n");
+
+        string merkleRoot = hashIt.BuildMerkleRoot(transactions);
+
+        Console.WriteLine($"Final Merkle Root Hash:\n{merkleRoot}");
+    }
+}

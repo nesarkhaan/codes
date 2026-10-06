@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\MerkleTreeNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\MerkleTreeNode.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\MerkleTreeNode.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\MerkleTreeNode.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\bin\Debug\net10.0\MerkleTreeNode.exe
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\bin\Debug\net10.0\MerkleTreeNode.deps.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\bin\Debug\net10.0\MerkleTreeNode.runtimeconfig.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\bin\Debug\net10.0\MerkleTreeNode.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\bin\Debug\net10.0\MerkleTreeNode.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\MerkleTreeNode.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\refint\MerkleTreeNode.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\MerkleTreeNode.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\MerkleTreeNode.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MerkleTreeNode\obj\Debug\net10.0\ref\MerkleTreeNode.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\SIMD-Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\SIMD-Parallel.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\SIMD-Parallel.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\SIMD-Parallel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\bin\Debug\net10.0\SIMD-Parallel.exe
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\bin\Debug\net10.0\SIMD-Parallel.deps.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\bin\Debug\net10.0\SIMD-Parallel.runtimeconfig.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\bin\Debug\net10.0\SIMD-Parallel.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\bin\Debug\net10.0\SIMD-Parallel.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\SIMD-Parallel.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\refint\SIMD-Parallel.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\SIMD-Parallel.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\SIMD-Parallel.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMD-Parallel\obj\Debug\net10.0\ref\SIMD-Parallel.dll

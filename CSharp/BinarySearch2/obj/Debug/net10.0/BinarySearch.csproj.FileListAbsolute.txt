@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\bin\Debug\net10.0\BinarySearch.exe
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\bin\Debug\net10.0\BinarySearch.deps.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\bin\Debug\net10.0\BinarySearch.runtimeconfig.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\bin\Debug\net10.0\BinarySearch.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\bin\Debug\net10.0\BinarySearch.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\BinarySearch.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\BinarySearch.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\refint\BinarySearch.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\BinarySearch.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\BinarySearch.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\BinarySearch\obj\Debug\net10.0\ref\BinarySearch.dll

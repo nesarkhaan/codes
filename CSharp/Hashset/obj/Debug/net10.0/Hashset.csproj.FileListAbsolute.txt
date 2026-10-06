@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\Hashset.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\Hashset.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\Hashset.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\bin\Debug\net10.0\Hashset.exe
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\bin\Debug\net10.0\Hashset.deps.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\bin\Debug\net10.0\Hashset.runtimeconfig.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\bin\Debug\net10.0\Hashset.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\bin\Debug\net10.0\Hashset.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\Hashset.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\refint\Hashset.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\Hashset.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\Hashset.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\Hashset\obj\Debug\net10.0\ref\Hashset.dll

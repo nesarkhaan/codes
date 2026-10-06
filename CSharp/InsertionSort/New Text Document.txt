@@ -1,0 +1,113 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace InsertionSort;
+
+
+public class SortEngine
+{
+    
+    public int[] Data {get; set;}
+
+    public SortEngine(int[] arraydata)
+    {
+        
+        this.Data = NewArray(arraydata);
+        
+
+    }
+
+    public int[] NewArray(int[] array)
+    {
+        int[] temporaryArray = new int[array.Length];
+        for(int i = 0; i < array.Length; i++)
+        {
+            temporaryArray[i] = array[i];
+        }
+        return temporaryArray;
+
+    }
+
+
+    public int[] InsertionSort()
+    {
+
+        for(int i = 1; i < Data.Length; i++) {
+            int key = Data[i];  //the key -- starting with index 1. 
+            int j = i - 1; // j is the previous index for swapping.
+
+          Console.WriteLine($"\n==================================================");
+        Console.WriteLine($"[PASS i = {i}] Key to insert: {key}");
+        Console.WriteLine($"Initial j = i - 1 = {j} (Checking Data[{j}] = {Data[j]})");
+        Console.WriteLine($"==================================================");
+            
+            while(j >= 0 && Data[j] > key)
+            {
+                Console.WriteLine($"  -> WHILE TRUE: Data[{j}] ({Data[j]}) > Key ({key})");
+            Console.WriteLine($"     1. Shifting Data[{j}] ({Data[j]}) RIGHT into Data[{j + 1}]");
+                Data[j+1] = Data[j];
+                Console.WriteLine($"     2. Decrementing j: {j} - 1 = {j - 1}");
+                j = j-1;
+            }
+
+            // Explain why the loop exited
+        if (j < 0)
+        {
+            Console.WriteLine($"  -> WHILE ENDED: j reached {j} (went off the left edge of the array)");
+        }
+        else
+        {
+            Console.WriteLine($"  -> WHILE ENDED: Data[{j}] ({Data[j]}) is NOT > Key ({key})");
+        }
+
+        Console.WriteLine($"  -> PLACING KEY: Data[j + 1] -> Data[{j} + 1] -> Data[{j + 1}] = {key}");
+            Data[j + 1] = key;
+
+            Console.WriteLine($"\n  Current Array State: [ {string.Join(", ", Data)} ]");
+
+        }
+
+    return Data;
+
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int[] unsortedNumbers = new int[50]
+        {
+        23, 7, 45, 12, 50, 3, 31, 18, 9, 39,
+        4, 28, 14, 49, 1, 33, 20, 42, 6, 16,
+        37, 11, 26, 48, 2, 30, 15, 41, 8, 22,
+        35, 19, 44, 5, 27, 13, 38, 21, 47, 10,
+        32, 17, 29, 46, 25, 34, 3, 40, 24, 36
+        };
+
+        SortEngine sortData = new SortEngine(unsortedNumbers);
+
+        var result = sortData.InsertionSort();
+
+        Display(unsortedNumbers, "Unsorted List");
+        Console.WriteLine("\n \n");
+        Display(result, "Sorted List");
+
+    }
+
+
+    public static void Display(int[] arraydata, string heading)
+    {
+
+        
+        
+        Console.WriteLine($"  ++++++++++++++[{heading}]+++++++++++++ \n {string.Join(" | ", arraydata)} \n");
+
+        //for(int i = 0; i < arraydata.Length; i++)
+        //{
+        //    Console.Write(arraydata[i].ToString() + " | ");
+        //}
+
+    }
+
+
+}

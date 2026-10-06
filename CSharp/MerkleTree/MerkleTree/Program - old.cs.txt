@@ -1,0 +1,202 @@
+﻿
+using System.Security.Cryptography;
+using System.Text;
+
+namespace MerkleTree;
+
+public class Hashing{
+
+    public string HashString {get; set;}
+    public List<string> Data {get; set;}
+    public int Counter;
+
+    public Hashing(){
+        
+        Data = new List<string>();
+        Counter = 0;    
+    }
+
+    //this method generates the hash and returns a string value.
+    public string GetHash(string stringdatatohash)
+    {
+        using(SHA256 CreateHash256 = SHA256.Create())
+        {
+            //Create Hash - returns byte array
+            byte[] bytes = CreateHash256.ComputeHash(Encoding.UTF8.GetBytes(stringdatatohash));
+
+            //Convert Byte Array into a string
+            StringBuilder HashString = new StringBuilder();
+
+            for(int i = 0; i < bytes.Length; i++)
+            {
+                HashString.Append(bytes[i].ToString("x2"));
+
+            }
+        
+        return HashString.ToString();
+
+    
+        }
+
+    }
+
+    //this method adds a hash to the list. Counter is incremented
+    public void AddHash(string stringdatatohash)
+    {
+        Data.Add(GetHash(stringdatatohash));
+        Counter++;
+
+    }
+
+    public List<string> GetList()
+    {
+        
+        return Data;
+
+
+    }
+    // this method Lists all the hashes current in file
+    public void ListHashes()
+    {
+         int counter = 1;
+        foreach(var item in Data)
+        {
+            
+            Console.WriteLine(counter +". " +item);
+            counter++;
+
+        }
+
+    }
+    // This method combines two hashes and returns a string value    
+    
+    
+    public string CombineHashes(string firsthash, string secondhash)
+    {
+        string combinedHash = firsthash + secondhash;
+        return GetHash(combinedHash);
+
+    }
+    
+
+
+
+
+}
+
+public class MerkleTree
+{
+    
+    public List<string> CurrentLayer;
+   
+    public int NumberOfBlocks {get; set;}    //the number of blocks will be used for the bottom leafs. 
+    public MerkleTree(int numberofblocks)
+    {
+        NumberOfBlocks = numberofblocks;
+        
+
+    }
+
+
+    public void PrintLayerList(List<string> data)
+    {
+        int count = 1;
+        foreach(var item in data)
+        {
+            Console.WriteLine(count + ": "+ item);
+            count++;
+
+        }
+
+
+    }
+
+    public static List<string> ReadFile(string path)
+    {
+        List<string> Chunks = new List<string>();
+
+        string line = String.Empty;
+    using(
+        StreamReader reader = new StreamReader(path))
+        {
+        while((line = reader.ReadLine())!= null)
+        {
+            string[] Parts = line.Split("");
+            Chunks.Add(Parts[0]);                          
+        }
+        }
+
+        return Chunks;
+
+    }
+
+
+
+    // Build Tree takes the hashlist, start index and the end index to hash to generate root.
+    public List<string> BuildTree(List<string> hashlist, int startindex, int endindex)
+    {
+        
+        Hashing hash = new Hashing();
+        List<string> HashesCurrentLayer = new List<string>();
+        
+        HashesCurrentLayer = hashlist;
+        int round = 0;
+
+        Console.WriteLine(HashesCurrentLayer.Count);
+        //the loop will continue to run until you have hash which is the root. 
+        while (HashesCurrentLayer.Count > 1)
+        {
+            round++;
+            Console.WriteLine($"----------------------------------------------------\n Round: " + round + "\n----------------------------------------------------");
+        
+            List<string> NextLayer = new List<string>();
+           
+            //this loop will run hash of left and right which is added to next layer. Next layer is passed to CurrentLayer so the loop runs again until the while condition is met.
+            for(int i = 0; i < HashesCurrentLayer.Count; i += 2)
+            {
+                
+                string leftnode = HashesCurrentLayer[i];
+                string rightnode = (i + 1 < HashesCurrentLayer.Count ) ? HashesCurrentLayer[i + 1] : HashesCurrentLayer[i];
+
+                
+                Console.WriteLine(i + ": Left Node:  "+ leftnode);
+                Console.WriteLine(i+1 + ": Right Node:  "+ rightnode + "\n");
+                
+                string ParentHash = hash.CombineHashes(leftnode, rightnode);
+                Console.WriteLine("Combined Root: " + ParentHash + "\n");
+                NextLayer.Add(ParentHash);
+            }
+            HashesCurrentLayer = NextLayer;
+            
+            PrintLayerList(NextLayer);
+
+        }
+        Console.WriteLine("\n\nFinal Root:" + HashesCurrentLayer[0]);
+        
+        return HashesCurrentLayer;
+    }
+
+}
+
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        //Initialising constructors for hashing class and MerkleTree. Hashing provides all the hashing methods and stores the Hashing Data. Merkle Tree for building the tree itself. 
+        Hashing HashIt = new Hashing();
+        MerkleTree tree = new MerkleTree(8);
+        
+        string FilePath = "./datanc2.txt";
+        var AllHashes = MerkleTree.ReadFile(FilePath);
+     
+        
+        
+        Console.WriteLine("Hash List");
+        //HashIt.ListHashes();
+        //Hashing objects passed to Tree Object within BuildTree Method. HashIt.GetData() is called within BuildTree() to access the hash data list. 
+        tree.BuildTree(AllHashes, 0, 1);
+
+
+    }
+}

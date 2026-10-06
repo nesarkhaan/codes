@@ -1,0 +1,14 @@
+/home/nesar/Documents/BinarySearch/bin/Debug/net10.0/BinarySearch
+/home/nesar/Documents/BinarySearch/bin/Debug/net10.0/BinarySearch.deps.json
+/home/nesar/Documents/BinarySearch/bin/Debug/net10.0/BinarySearch.runtimeconfig.json
+/home/nesar/Documents/BinarySearch/bin/Debug/net10.0/BinarySearch.dll
+/home/nesar/Documents/BinarySearch/bin/Debug/net10.0/BinarySearch.pdb
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/BinarySearch.AssemblyInfoInputs.cache
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/BinarySearch.AssemblyInfo.cs
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/BinarySearch.csproj.CoreCompileInputs.cache
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/BinarySearch.dll
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/refint/BinarySearch.dll
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/BinarySearch.pdb
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/BinarySearch.genruntimeconfig.cache
+/home/nesar/Documents/BinarySearch/obj/Debug/net10.0/ref/BinarySearch.dll

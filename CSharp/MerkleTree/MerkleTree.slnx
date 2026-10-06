@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="./MerkleTree.Tests/MerkleTree.Tests.csproj" />
+  <Project Path="./MerkleTree/MerkleTree.csproj" />
+</Solution>

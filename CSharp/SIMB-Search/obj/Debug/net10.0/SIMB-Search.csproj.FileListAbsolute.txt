@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\bin\Debug\net10.0\SIMB-Search.exe
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\bin\Debug\net10.0\SIMB-Search.deps.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\bin\Debug\net10.0\SIMB-Search.runtimeconfig.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\bin\Debug\net10.0\SIMB-Search.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\bin\Debug\net10.0\SIMB-Search.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\SIMB-Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\SIMB-Search.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\SIMB-Search.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\SIMB-Search.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\SIMB-Search.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\refint\SIMB-Search.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\SIMB-Search.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\SIMB-Search.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\SIMB-Search\obj\Debug\net10.0\ref\SIMB-Search.dll
