@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/SumsArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/SumsArray.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/SumsArray.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/SumsArray.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/bin/Debug/net10.0/SumsArray
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/bin/Debug/net10.0/SumsArray.deps.json
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/bin/Debug/net10.0/SumsArray.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/bin/Debug/net10.0/SumsArray.dll
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/bin/Debug/net10.0/SumsArray.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/SumsArray.dll
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/refint/SumsArray.dll
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/SumsArray.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/SumsArray.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/Problems/SumsArray/obj/Debug/net10.0/ref/SumsArray.dll

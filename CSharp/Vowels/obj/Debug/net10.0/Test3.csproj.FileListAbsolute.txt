@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/Labs/test/Test3/bin/Debug/net10.0/Test3
+/home/nesar/Desktop/Programming/Labs/test/Test3/bin/Debug/net10.0/Test3.deps.json
+/home/nesar/Desktop/Programming/Labs/test/Test3/bin/Debug/net10.0/Test3.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/test/Test3/bin/Debug/net10.0/Test3.dll
+/home/nesar/Desktop/Programming/Labs/test/Test3/bin/Debug/net10.0/Test3.pdb
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/Test3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/Test3.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/Test3.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/Test3.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/Test3.dll
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/refint/Test3.dll
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/Test3.pdb
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/Test3.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/test/Test3/obj/Debug/net10.0/ref/Test3.dll

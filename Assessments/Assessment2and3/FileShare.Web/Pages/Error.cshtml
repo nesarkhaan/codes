@@ -1,0 +1,16 @@
+@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<section class="panel error-page">
+    <p class="eyebrow eyebrow-danger">Unexpected error</p>
+    <h1>FileShare could not complete that request.</h1>
+    <p>Return to the Packages page and try again.</p>
+    @if (Model.ShowRequestId)
+    {
+        <p><strong>Request ID:</strong> <code>@Model.RequestId</code></p>
+    }
+    <a class="button button-primary" asp-page="/Packages">Return to packages</a>
+</section>

@@ -1,0 +1,196 @@
+@page "/packages"
+@model PackagesModel
+@{
+    ViewData["Title"] = "Packages";
+}
+
+<section class="page-heading">
+    <div>
+        <p class="eyebrow">File sharing state</p>
+        <h1>Packages</h1>
+        <p>Packages currently managed by this FileShare peer.</p>
+    </div>
+        @* Always display the total number of managed packages,
+        even when the table is filtered. *@
+    <span class="count-badge">
+        @(Model.TotalCount == 1
+            ? "1 package managed"
+            : $"{Model.TotalCount} packages managed")
+    </span>
+</section>
+
+    @* Each button submits its filter using the page URL. *@
+<form method="get" class="summary-grid" aria-label="Filter packages by state">
+
+    <button class="summary-card @(Model.Filter == "complete" ? "is-active" : null)"
+            type="submit"
+            name="filter"
+            value="complete"
+            aria-pressed="@(Model.Filter == "complete" ? "true" : "false")">
+        <span class="summary-label">Complete</span>
+        <strong>@Model.CompleteCount</strong>
+        <span class="summary-help">All blocks verified</span>
+    </button>
+
+    <button class="summary-card @(Model.Filter == "incomplete" ? "is-active" : null)"
+            type="submit"
+            name="filter"
+            value="incomplete"
+            aria-pressed="@(Model.Filter == "incomplete" ? "true" : "false")">
+        <span class="summary-label">Incomplete</span>
+        <strong>@Model.IncompleteCount</strong>
+        <span class="summary-help">Still downloading</span>
+    </button>
+
+    <button class="summary-card @(Model.Filter == "all" ? "is-active" : null)"
+            type="submit"
+            name="filter"
+            value="all"
+            aria-pressed="@(Model.Filter == "all" ? "true" : "false")">
+        <span class="summary-label">Total</span>
+        <strong>@Model.TotalCount</strong>
+        <span class="summary-help">Managed packages</span>
+    </button>
+
+</form>
+
+<section class="panel">
+    <div class="panel-heading">
+        <div>
+            <h2>Managed packages</h2>
+            <p>Open a package for its identifier, target path, blocks and peers.</p>
+        </div>
+        <button class="button button-primary" type="button" data-dialog-open="add-package-dialog">
+            <span aria-hidden="true">+</span> Add package
+        </button>
+    </div>
+
+    @if (Model.TotalCount == 0)
+    {
+        <div class="empty-state">
+            <span class="empty-icon" aria-hidden="true">□</span>
+            <h3>No packages managed.</h3>
+            <p>Add a valid <code>.tpk</code> file to begin managing a package.</p>
+            <button class="button button-primary" type="button" data-dialog-open="add-package-dialog">Add package</button>
+        </div>
+    }
+        @* Display a category-specific message when packages exist,
+        but none match the selected filter. *@
+    else if (Model.Packages.Count == 0)
+    {
+        <div class="empty-state">
+            <span class="empty-icon" aria-hidden="true">□</span>
+            <h3>No @Model.Filter packages.</h3>
+            <p>There are currently no packages in this category.</p>
+
+            <a class="button"
+               asp-page="/Packages"
+               asp-route-filter="all">
+                Show all packages
+            </a>
+        </div>
+    }
+    else
+    {
+        <div class="table-wrap">
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Package</th>
+                        <th scope="col">Progress</th>
+                        <th scope="col">State</th>
+                        <th scope="col"><span class="sr-only">Actions</span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var package in Model.Packages)
+                    {
+                        <tr>
+                            <td>
+                                <strong class="primary-cell">@package.FileName</strong>
+                                <code class="secondary-cell">@package.ShortIdentifier</code>
+                            </td>
+                            <td class="progress-cell">
+                                <div class="progress-label">
+                                    <span>@package.CompletedBlocks.ToString("N0") / @package.TotalBlocks.ToString("N0") blocks</span>
+                                    <strong>@package.ProgressPercentage%</strong>
+                                </div>
+                                <div class="progress-track"
+                                     role="progressbar"
+                                     aria-label="@package.FileName progress"
+                                     aria-valuemin="0"
+                                     aria-valuemax="100"
+                                     aria-valuenow="@package.ProgressPercentage">
+                                    <span style="width: @package.ProgressPercentage%"></span>
+                                </div>
+                            </td>
+                            <td>
+                                <span class="state-badge @(package.State == PackageState.Complete ? "state-complete" : "state-incomplete")">
+                                    @package.State
+                                </span>
+                            </td>
+                            <td class="actions-cell">
+                                <button class="button button-quiet"
+                                        type="button"
+                                        data-package-details
+                                        data-name="@package.FileName"
+                                        data-identifier="@package.Identifier"
+                                        data-target="@package.TargetPath"
+                                        data-blocks="@package.CompletedBlocks.ToString("N0") of @package.TotalBlocks.ToString("N0")"
+                                        data-peers="@(package.Peers.Count == 0 ? "No peer has advertised this package yet" : string.Join(", ", package.Peers))"
+                                        data-state="@package.State">
+                                    Details
+                                </button>
+                                <button class="button button-danger-quiet"
+                                        type="button"
+                                        data-package-remove
+                                        data-name="@package.FileName"
+                                        data-identifier="@package.Identifier">
+                                    Remove
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</section>
+
+<dialog class="dialog" id="package-details-dialog" aria-labelledby="package-details-title">
+    <div class="dialog-heading">
+        <div>
+            <p class="eyebrow">Package information</p>
+            <h2 id="package-details-title" data-detail-name>Package details</h2>
+        </div>
+        <button class="icon-button" type="button" data-dialog-close aria-label="Close package details">×</button>
+    </div>
+    <dl class="detail-list">
+        <div><dt>Identifier</dt><dd><code data-detail-identifier></code></dd></div>
+        <div><dt>Target path</dt><dd data-detail-target></dd></div>
+        <div><dt>Verified blocks</dt><dd data-detail-blocks></dd></div>
+        <div><dt>Available from</dt><dd data-detail-peers></dd></div>
+        <div><dt>State</dt><dd data-detail-state></dd></div>
+    </dl>
+    <div class="dialog-actions">
+        <button class="button" type="button" data-dialog-close>Close</button>
+    </div>
+</dialog>
+
+<dialog class="dialog dialog-small" id="remove-package-dialog" aria-labelledby="remove-package-title">
+    <form method="post" asp-page-handler="Remove">
+        <div class="dialog-heading">
+            <div>
+                <p class="eyebrow eyebrow-danger">Confirmation required</p>
+                <h2 id="remove-package-title">Remove package?</h2>
+            </div>
+            <button class="icon-button" type="button" data-dialog-close aria-label="Cancel removing package">×</button>
+        </div>
+        <p>This stops managing <strong data-remove-name></strong>. The downloaded file is not deleted.</p>
+        <input type="hidden" name="identifier" data-remove-identifier>
+        <div class="dialog-actions">
+            <button class="button" type="button" data-dialog-close>Cancel</button>
+            <button class="button button-danger" type="submit">Remove package</button>
+        </div>
+    </form>
+</dialog>

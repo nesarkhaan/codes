@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/bin/Debug/net10.0/Asteriks
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/bin/Debug/net10.0/Asteriks.deps.json
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/bin/Debug/net10.0/Asteriks.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/bin/Debug/net10.0/Asteriks.dll
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/bin/Debug/net10.0/Asteriks.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/Asteriks.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/Asteriks.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/Asteriks.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/Asteriks.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/Asteriks.dll
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/refint/Asteriks.dll
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/Asteriks.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/Asteriks.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/Problems/Asteriks/obj/Debug/net10.0/ref/Asteriks.dll

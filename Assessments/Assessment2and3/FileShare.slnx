@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="FileValidate.Test/FileValidate.Test.csproj" />
+  <Project Path="FileValidate/FileValidate.csproj" />
+  <Project Path="FileShare.Abstractions/FileShare.Abstractions.csproj" />
+  <Project Path="FileShare.Console/FileShare.Console.csproj" />
+  <Project Path="FileShare.Lib/FileShare.Lib.csproj" />
+  <Project Path="FileShare.Service/FileShare.Service.csproj" />
+  <Project Path="FileShare.Test/FileShare.Test.csproj" />
+  <Project Path="FileShare.Web/FileShare.Web.csproj" />
+</Solution>

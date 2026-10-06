@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/file-examiner.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/file-examiner.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/file-examiner.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/file-examiner.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/bin/Debug/net10.0/file-examiner
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/bin/Debug/net10.0/file-examiner.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/bin/Debug/net10.0/file-examiner.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/bin/Debug/net10.0/file-examiner.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/bin/Debug/net10.0/file-examiner.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/file-examiner.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/refint/file-examiner.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/file-examiner.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/file-examiner.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/file-examiner/obj/Debug/net10.0/ref/file-examiner.dll

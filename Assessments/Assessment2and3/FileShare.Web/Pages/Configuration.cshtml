@@ -1,0 +1,68 @@
+@page "/configuration"
+@model ConfigurationModel
+@{
+    ViewData["Title"] = "Configuration";
+}
+
+<section class="page-heading">
+    <div>
+        <p class="eyebrow">Application settings</p>
+        <h1>Configuration</h1>
+        <p>Settings used when the FileShare application starts.</p>
+    </div>
+    <span class="count-badge"><span class="status-dot" aria-hidden="true"></span> Configuration loaded</span>
+</section>
+
+<section class="panel configuration-panel">
+    <div class="panel-heading">
+        <div>
+            <h2>Peer configuration</h2>
+            <p>All fields are required. Missing directories must be created by the application where possible.</p>
+        </div>
+    </div>
+
+    <form method="post" class="configuration-form">
+        <div asp-validation-summary="ModelOnly" class="validation-summary" role="alert"></div>
+
+        <div class="form-grid">
+            <div class="field">
+                <label asp-for="Input.Nickname"></label>
+                <input asp-for="Input.Nickname" autocomplete="nickname">
+                <span asp-validation-for="Input.Nickname" class="field-error"></span>
+                <small>The name sent to other peers.</small>
+            </div>
+
+            <div class="field">
+                <label asp-for="Input.MaxPeers"></label>
+                <input asp-for="Input.MaxPeers" min="1" max="2048">
+                <span asp-validation-for="Input.MaxPeers" class="field-error"></span>
+                <small>Must be between 1 and 2048.</small>
+            </div>
+
+            <div class="field">
+                <label asp-for="Input.MetafileDirectory"></label>
+                <input asp-for="Input.MetafileDirectory">
+                <span asp-validation-for="Input.MetafileDirectory" class="field-error"></span>
+                <small>Location for loading, copying and storing <code>.tpk</code> files.</small>
+            </div>
+
+            <div class="field">
+                <label asp-for="Input.FileDirectory"></label>
+                <input asp-for="Input.FileDirectory">
+                <span asp-validation-for="Input.FileDirectory" class="field-error"></span>
+                <small>Location for downloaded and shared files.</small>
+            </div>
+
+            <div class="field">
+                <label asp-for="Input.Port"></label>
+                <input asp-for="Input.Port" min="1" max="65535">
+                <span asp-validation-for="Input.Port" class="field-error"></span>
+                <small>TCP socket port used for FileShare peers, not the web server port.</small>
+            </div>
+        </div>
+
+        <div class="form-actions">
+            <button class="button button-primary" type="submit">Save configuration</button>
+        </div>
+    </form>
+</section>

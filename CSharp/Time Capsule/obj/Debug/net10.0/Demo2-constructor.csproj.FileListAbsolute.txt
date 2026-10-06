@@ -1,0 +1,28 @@
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.deps.json
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.dll
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.pdb
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.dll
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/refint/Demo2-constructor.dll
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.pdb
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/Demo2-constructor/obj/Debug/net10.0/ref/Demo2-constructor.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/bin/Debug/net10.0/Demo2-constructor.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/refint/Demo2-constructor.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/Demo2-constructor.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Demo2-constructor/obj/Debug/net10.0/ref/Demo2-constructor.dll

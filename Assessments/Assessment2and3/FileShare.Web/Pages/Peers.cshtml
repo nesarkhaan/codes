@@ -1,0 +1,98 @@
+@page "/peers"
+@model PeersModel
+@{
+    ViewData["Title"] = "Peers";
+}
+
+<section class="page-heading">
+    <div>
+        <p class="eyebrow">Network connections</p>
+        <h1>Peers</h1>
+        <p>Active and previously connected FileShare peers.</p>
+    </div>
+    <span class="count-badge">@Model.ConnectedCount connected</span>
+</section>
+
+@if (Model.ConnectedCount == 0)
+{
+    <div class="inline-empty">Not connected to any peers.</div>
+}
+
+<section class="panel">
+    <div class="panel-heading">
+        <div>
+            <h2>Known peers</h2>
+            <p>Disconnected peers remain listed so they can be reconnected.</p>
+        </div>
+        <button class="button button-primary" type="button" data-dialog-open="connect-peer-dialog">Connect peer</button>
+    </div>
+
+    @if (Model.Peers.Count == 0)
+    {
+        <div class="empty-state">
+            <span class="empty-icon" aria-hidden="true">↔</span>
+            <h3>Not connected to any peers.</h3>
+            <p>Connect using the peer's IP address and listening port.</p>
+            <button class="button button-primary" type="button" data-dialog-open="connect-peer-dialog">Connect peer</button>
+        </div>
+    }
+    else
+    {
+        <div class="table-wrap">
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Peer</th>
+                        <th scope="col">IP address and port</th>
+                        <th scope="col">State</th>
+                        <th scope="col"><span class="sr-only">Actions</span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var peer in Model.Peers)
+                    {
+                        <tr>
+                            <td>
+                                <span class="peer-name">
+                                    <span class="peer-dot @(!peer.IsConnected ? "peer-dot-offline" : null)" aria-hidden="true"></span>
+                                    <strong>@peer.Nickname</strong>
+                                </span>
+                            </td>
+                            <td><code>@peer.Address</code></td>
+                            <td>
+                                <span class="state-badge @(peer.IsConnected ? "state-connected" : "state-disconnected")">
+                                    @(peer.IsConnected ? "Connected" : "Disconnected")
+                                </span>
+                            </td>
+                            <td class="actions-cell">
+                                @if (peer.IsConnected)
+                                {
+                                    <form method="post" asp-page-handler="Disconnect">
+                                        <input type="hidden" name="peerId" value="@peer.Id">
+                                        <button class="button" type="submit">Disconnect</button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <form method="post" asp-page-handler="Reconnect">
+                                        <input type="hidden" name="peerId" value="@peer.Id">
+                                        <button class="button button-primary" type="submit">Reconnect</button>
+                                    </form>
+                                }
+                                
+                                <form method="post" asp-page-handler="Remove">
+                                    <input type="hidden" name="peerId" value="@peer.Id">
+                                    <button class="button button-danger-quiet"
+                                            type="submit"
+                                            onclick="return confirm('Remove this peer?');"
+                                            >Remove
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</section>

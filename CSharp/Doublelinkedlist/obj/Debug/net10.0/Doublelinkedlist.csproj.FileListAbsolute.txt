@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/bin/Debug/net10.0/Doublelinkedlist
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/bin/Debug/net10.0/Doublelinkedlist.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/bin/Debug/net10.0/Doublelinkedlist.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/bin/Debug/net10.0/Doublelinkedlist.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/bin/Debug/net10.0/Doublelinkedlist.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/Doublelinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/Doublelinkedlist.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/Doublelinkedlist.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/Doublelinkedlist.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/Doublelinkedlist.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/refint/Doublelinkedlist.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/Doublelinkedlist.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/Doublelinkedlist.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Doublelinkedlist/obj/Debug/net10.0/ref/Doublelinkedlist.dll

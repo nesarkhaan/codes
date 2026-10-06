@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/bin/Debug/net10.0/MinimumOfTwo
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/bin/Debug/net10.0/MinimumOfTwo.deps.json
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/bin/Debug/net10.0/MinimumOfTwo.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/bin/Debug/net10.0/MinimumOfTwo.dll
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/bin/Debug/net10.0/MinimumOfTwo.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/MinimumOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/MinimumOfTwo.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/MinimumOfTwo.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/MinimumOfTwo.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/MinimumOfTwo.dll
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/refint/MinimumOfTwo.dll
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/MinimumOfTwo.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/MinimumOfTwo.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/Problems/MinimumOfTwo/obj/Debug/net10.0/ref/MinimumOfTwo.dll

@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/bin/Debug/net10.0/SquareCode
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/bin/Debug/net10.0/SquareCode.deps.json
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/bin/Debug/net10.0/SquareCode.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/bin/Debug/net10.0/SquareCode.dll
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/bin/Debug/net10.0/SquareCode.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/SquareCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/SquareCode.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/SquareCode.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/SquareCode.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/SquareCode.dll
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/refint/SquareCode.dll
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/SquareCode.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/SquareCode.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/Problems/SquareCode/obj/Debug/net10.0/ref/SquareCode.dll

@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/bin/Debug/net10.0/Loops
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/bin/Debug/net10.0/Loops.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/bin/Debug/net10.0/Loops.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/bin/Debug/net10.0/Loops.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/bin/Debug/net10.0/Loops.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/Loops.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/Loops.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/Loops.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/Loops.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/refint/Loops.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/Loops.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/Loops.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Loops/obj/Debug/net10.0/ref/Loops.dll

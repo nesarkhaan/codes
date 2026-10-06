@@ -1,0 +1,28 @@
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.deps.json
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.dll
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.pdb
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.dll
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/refint/BinaryTree2.dll
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.pdb
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/ref/BinaryTree2.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/bin/Debug/net10.0/BinaryTree2.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/refint/BinaryTree2.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/BinaryTree2.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree2/obj/Debug/net10.0/ref/BinaryTree2.dll

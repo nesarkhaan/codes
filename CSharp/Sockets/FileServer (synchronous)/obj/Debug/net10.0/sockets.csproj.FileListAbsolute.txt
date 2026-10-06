@@ -1,0 +1,28 @@
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/sockets.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/sockets.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/sockets.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/sockets.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/bin/Debug/net10.0/sockets
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/bin/Debug/net10.0/sockets.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/bin/Debug/net10.0/sockets.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/bin/Debug/net10.0/sockets.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/bin/Debug/net10.0/sockets.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/sockets.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/refint/sockets.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/sockets.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/sockets.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer/obj/Debug/net10.0/ref/sockets.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/bin/Debug/net10.0/sockets
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/bin/Debug/net10.0/sockets.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/bin/Debug/net10.0/sockets.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/bin/Debug/net10.0/sockets.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/bin/Debug/net10.0/sockets.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/sockets.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/sockets.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/sockets.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/sockets.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/sockets.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/refint/sockets.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/sockets.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/sockets.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/socketslab/FileServer (synchronous)/obj/Debug/net10.0/ref/sockets.dll

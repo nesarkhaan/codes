@@ -1,0 +1,28 @@
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.deps.json
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.dll
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.pdb
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.dll
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/refint/Test5-Memory.dll
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.pdb
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/test/Test5-Memory/obj/Debug/net10.0/ref/Test5-Memory.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/bin/Debug/net10.0/Test5-Memory.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/refint/Test5-Memory.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/Test5-Memory.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test5-Memory/obj/Debug/net10.0/ref/Test5-Memory.dll

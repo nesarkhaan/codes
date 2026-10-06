@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/bin/Debug/net10.0/hash
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/bin/Debug/net10.0/hash.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/bin/Debug/net10.0/hash.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/bin/Debug/net10.0/hash.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/bin/Debug/net10.0/hash.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/hash.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/hash.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/hash.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/hash.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/hash.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/refint/hash.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/hash.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/hash.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/hash/obj/Debug/net10.0/ref/hash.dll

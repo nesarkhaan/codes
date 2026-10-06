@@ -1,0 +1,13 @@
+@{
+    var message = TempData["Message"] as string;
+    var messageType = TempData["MessageType"] as string ?? "success";
+}
+
+@if (!string.IsNullOrWhiteSpace(message))
+{
+    <div class="notice @(messageType == "error" ? "notice-error" : "notice-success")" role="status" data-notice>
+        <span class="notice-symbol" aria-hidden="true">@(messageType == "error" ? "!" : "✓")</span>
+        <span>@message</span>
+        <button class="icon-button" type="button" data-notice-close aria-label="Dismiss message">×</button>
+    </div>
+}

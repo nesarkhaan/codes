@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/Sums.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/Sums.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/Sums.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/Sums.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/bin/Debug/net10.0/Sums
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/bin/Debug/net10.0/Sums.deps.json
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/bin/Debug/net10.0/Sums.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/bin/Debug/net10.0/Sums.dll
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/bin/Debug/net10.0/Sums.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/Sums.dll
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/refint/Sums.dll
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/Sums.pdb
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/Sums.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/Problems/Sums/obj/Debug/net10.0/ref/Sums.dll

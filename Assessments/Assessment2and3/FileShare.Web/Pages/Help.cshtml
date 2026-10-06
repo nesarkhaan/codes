@@ -1,0 +1,63 @@
+@page "/help"
+@model HelpModel
+@{
+    ViewData["Title"] = "Help";
+}
+
+<section class="page-heading">
+    <div>
+        <p class="eyebrow">User documentation</p>
+        <h1>Help and documentation</h1>
+        <p>How to use the FileShare web client.</p>
+    </div>
+</section>
+
+<div class="documentation-grid">
+    <section class="panel documentation-card">
+        <span class="step-number">1</span>
+        <h2>Getting started</h2>
+        <ol>
+            <li>Confirm the nickname, directories, maximum peers and listening port under Configuration.</li>
+            <li>Select <strong>Add package</strong> and choose a valid <code>.tpk</code> file.</li>
+            <li>Select <strong>Connect peer</strong>, then enter the peer's IP address and port.</li>
+            <li>Watch the verified-block percentage until the package becomes Complete.</li>
+        </ol>
+    </section>
+
+    <section class="panel documentation-card">
+        <span class="step-number">2</span>
+        <h2>Package states</h2>
+        <ul>
+            <li><strong>Incomplete:</strong> one or more expected data blocks are still missing.</li>
+            <li><strong>Complete:</strong> every block is present and matches its expected hash.</li>
+            <li><strong>Remove:</strong> stops managing the package after confirmation.</li>
+        </ul>
+    </section>
+
+    <section class="panel documentation-card">
+        <span class="step-number">3</span>
+        <h2>Peer states</h2>
+        <ul>
+            <li><strong>Connected:</strong> the handshake succeeded and the peer can exchange messages.</li>
+            <li><strong>Disconnected:</strong> the peer remains known and can be reconnected.</li>
+            <li><strong>Unknown#ID:</strong> the peer did not provide a nickname.</li>
+        </ul>
+    </section>
+
+    <section class="panel documentation-card messages-card">
+        <span class="step-number">4</span>
+        <h2>Required user messages</h2>
+        <div class="message-list">
+            <code>Already connected to peer</code>
+            <code>Missing address and port argument.</code>
+            <code>Disconnected from peer.</code>
+            <code>Unknown peer, not connected</code>
+            <code>Missing file argument.</code>
+            <code>Cannot open file</code>
+            <code>Unable to parse tpk file.</code>
+            <code>Package has been removed</code>
+            <code>No packages managed.</code>
+            <code>Not connected to any peers.</code>
+        </div>
+    </section>
+</div>

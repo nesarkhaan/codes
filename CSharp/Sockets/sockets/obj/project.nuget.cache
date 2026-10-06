@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTou8ePXEYw=",
+  "success": true,
+  "projectFilePath": "/home/nesar/Desktop/Programming/C Sharp/Labs/sockets/sockets.csproj",
+  "expectedPackageFiles": [
+    "/home/nesar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/nesar/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/nesar/.nuget/packages/system.io.pipelines/10.0.10/system.io.pipelines.10.0.10.nupkg.sha512",
+    "/home/nesar/.nuget/packages/system.net.sockets/4.3.0/system.net.sockets.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.IO.Pipelines will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "/home/nesar/Desktop/Programming/C Sharp/Labs/sockets/sockets.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/nesar/Desktop/Programming/C Sharp/Labs/sockets/sockets.csproj",
+      "libraryId": "System.IO.Pipelines",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Net.Sockets will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "/home/nesar/Desktop/Programming/C Sharp/Labs/sockets/sockets.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/nesar/Desktop/Programming/C Sharp/Labs/sockets/sockets.csproj",
+      "libraryId": "System.Net.Sockets",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

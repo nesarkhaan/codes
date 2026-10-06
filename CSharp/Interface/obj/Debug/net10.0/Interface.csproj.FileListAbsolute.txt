@@ -1,0 +1,28 @@
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/Interface.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/Interface.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/Interface.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/Interface/bin/Debug/net10.0/Interface
+/home/nesar/Desktop/Programming/Labs/Interface/bin/Debug/net10.0/Interface.deps.json
+/home/nesar/Desktop/Programming/Labs/Interface/bin/Debug/net10.0/Interface.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/Interface/bin/Debug/net10.0/Interface.dll
+/home/nesar/Desktop/Programming/Labs/Interface/bin/Debug/net10.0/Interface.pdb
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/Interface.dll
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/refint/Interface.dll
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/Interface.pdb
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/Interface.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/Interface/obj/Debug/net10.0/ref/Interface.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/bin/Debug/net10.0/Interface
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/bin/Debug/net10.0/Interface.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/bin/Debug/net10.0/Interface.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/bin/Debug/net10.0/Interface.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/bin/Debug/net10.0/Interface.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/Interface.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/Interface.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/Interface.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/Interface.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/refint/Interface.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/Interface.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/Interface.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/Interface/obj/Debug/net10.0/ref/Interface.dll

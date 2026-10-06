@@ -1,0 +1,21 @@
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/bin/Debug/net10.0/BinaryTree3
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/bin/Debug/net10.0/BinaryTree3.deps.json
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/bin/Debug/net10.0/BinaryTree3.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/bin/Debug/net10.0/BinaryTree3.dll
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/bin/Debug/net10.0/BinaryTree3.pdb
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.dll
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/refint/BinaryTree3.dll
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.pdb
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/ref/BinaryTree3.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/refint/BinaryTree3.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/DataStructures/BinaryTree3/obj/Debug/net10.0/BinaryTree3.pdb

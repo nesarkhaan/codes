@@ -1,0 +1,28 @@
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.deps.json
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.dll
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.pdb
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.dll
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/refint/Test4-ReadBinary.dll
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.pdb
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/ref/Test4-ReadBinary.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/bin/Debug/net10.0/Test4-ReadBinary.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/refint/Test4-ReadBinary.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/Test4-ReadBinary.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/test/Test4-ReadBinary/obj/Debug/net10.0/ref/Test4-ReadBinary.dll

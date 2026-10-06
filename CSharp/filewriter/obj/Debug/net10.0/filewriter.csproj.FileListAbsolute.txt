@@ -1,0 +1,21 @@
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/filewriter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/filewriter.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/filewriter.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/filewriter.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/filewriter/bin/Debug/net10.0/filewriter
+/home/nesar/Desktop/Programming/Labs/filewriter/bin/Debug/net10.0/filewriter.deps.json
+/home/nesar/Desktop/Programming/Labs/filewriter/bin/Debug/net10.0/filewriter.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/filewriter/bin/Debug/net10.0/filewriter.dll
+/home/nesar/Desktop/Programming/Labs/filewriter/bin/Debug/net10.0/filewriter.pdb
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/filewriter.dll
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/refint/filewriter.dll
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/filewriter.pdb
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/filewriter.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/filewriter/obj/Debug/net10.0/ref/filewriter.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/filewriter/obj/Debug/net10.0/filewriter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/filewriter/obj/Debug/net10.0/filewriter.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/filewriter/obj/Debug/net10.0/filewriter.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/filewriter/obj/Debug/net10.0/filewriter.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/filewriter/obj/Debug/net10.0/filewriter.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/filewriter/obj/Debug/net10.0/refint/filewriter.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/filewriter/obj/Debug/net10.0/filewriter.pdb

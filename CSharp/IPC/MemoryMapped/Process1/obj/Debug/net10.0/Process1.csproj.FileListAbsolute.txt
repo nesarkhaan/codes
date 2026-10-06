@@ -1,0 +1,14 @@
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/bin/Debug/net10.0/Process1
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/bin/Debug/net10.0/Process1.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/bin/Debug/net10.0/Process1.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/bin/Debug/net10.0/Process1.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/bin/Debug/net10.0/Process1.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/Process1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/Process1.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/Process1.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/Process1.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/Process1.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/refint/Process1.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/Process1.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/Process1.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/MemoryMapped/Process1/obj/Debug/net10.0/ref/Process1.dll
