@@ -1,0 +1,28 @@
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/quicksort.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/quicksort.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/quicksort.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/quicksort.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Labs/quicksort/bin/Debug/net10.0/quicksort
+/home/nesar/Desktop/Programming/Labs/quicksort/bin/Debug/net10.0/quicksort.deps.json
+/home/nesar/Desktop/Programming/Labs/quicksort/bin/Debug/net10.0/quicksort.runtimeconfig.json
+/home/nesar/Desktop/Programming/Labs/quicksort/bin/Debug/net10.0/quicksort.dll
+/home/nesar/Desktop/Programming/Labs/quicksort/bin/Debug/net10.0/quicksort.pdb
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/quicksort.dll
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/refint/quicksort.dll
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/quicksort.pdb
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/quicksort.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Labs/quicksort/obj/Debug/net10.0/ref/quicksort.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/bin/Debug/net10.0/quicksort
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/bin/Debug/net10.0/quicksort.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/bin/Debug/net10.0/quicksort.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/bin/Debug/net10.0/quicksort.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/bin/Debug/net10.0/quicksort.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/quicksort.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/quicksort.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/quicksort.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/quicksort.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/quicksort.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/refint/quicksort.dll
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/quicksort.pdb
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/quicksort.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Labs/quicksort/obj/Debug/net10.0/ref/quicksort.dll
