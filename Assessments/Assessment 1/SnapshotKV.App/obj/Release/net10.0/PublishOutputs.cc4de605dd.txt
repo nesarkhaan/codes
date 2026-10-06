@@ -1,0 +1,7 @@
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Release/net10.0/publish/SnapshotKV.App
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Release/net10.0/publish/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Release/net10.0/publish/SnapshotKV.App.deps.json
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Release/net10.0/publish/SnapshotKV.App.runtimeconfig.json
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Release/net10.0/publish/SnapshotKV.App.pdb
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Release/net10.0/publish/SnapshotKV.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Release/net10.0/publish/SnapshotKV.pdb

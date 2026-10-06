@@ -1,0 +1,301 @@
+
+namespace SnapshotKV.Test;
+
+public class InternalSnapshotQueryBuilder {
+    private string command = String.Empty;
+    private int[] results = {};
+    private int? recKey = -1;
+    private bool success = false;
+
+    private bool[] ignoreSet = { false, false, false, false };
+
+    public InternalSnapshotQueryBuilder SetCommand(string cmd)
+    {
+        this.ignoreSet[0] = false;
+        this.command = cmd;
+        return this;
+    }
+
+    public InternalSnapshotQueryBuilder IgnoreCommand()
+    {
+        this.ignoreSet[0] = true;
+        return this;
+    }
+
+    public InternalSnapshotQueryBuilder SetResults(int[] results)
+    {
+        this.ignoreSet[1] = false;
+        this.results = results;
+        return this;
+    }
+    
+    public InternalSnapshotQueryBuilder IgnoreResults()
+    {
+        this.ignoreSet[1] = true;
+        return this;
+    }
+    
+    public InternalSnapshotQueryBuilder SetRecKey(int? recKey)
+    {
+        this.ignoreSet[2] = false;
+        this.recKey = recKey;
+        return this;
+    }
+    
+    public InternalSnapshotQueryBuilder IgnoreRecKey()
+    {
+        this.ignoreSet[2] = true;
+        return this;
+    }
+
+    public InternalSnapshotQueryBuilder SetSuccess(bool success)
+    {
+        this.ignoreSet[3] = false;
+        this.success = success;
+        return this;
+    }
+    
+    public InternalSnapshotQueryBuilder IgnoreSuccess()
+    {
+        this.ignoreSet[3] = true;
+        return this;
+    }
+
+    public InternalSnapshotQueryResult Build()
+    {
+        return new InternalSnapshotQueryResult(
+            command, results, recKey, success, ignoreSet
+        );
+    }
+    
+}
+
+
+public class InternalSnapshotQueryResult : SnapshotQueryResult, SnapshotDBOpResult
+{
+    private string command;
+    private int[] results;
+    private int? recKey;
+    private bool success;
+
+    private bool[] ignoreSet = { false, false, false, false };    
+
+    private bool isDBOper = false;
+    private SnapshotKVDB? database = null;
+
+    public InternalSnapshotQueryResult(string cmd,
+        int[] results, int? recKey, bool success)
+    {
+        this.command = cmd;
+        this.results = results;
+        this.recKey = recKey;
+        this.success = success;
+        
+    }
+    public InternalSnapshotQueryResult(string cmd,
+        bool dbsuccess) : this(cmd, new int[0], null, dbsuccess)
+    {
+        this.isDBOper = true;
+    }
+
+    public SnapshotKVDB? Database() {
+        return database;
+    }
+
+    public InternalSnapshotQueryResult(string cmd,
+        int[] results, int? recKey, bool success, bool[] ignoreSet)
+        : this(cmd, results, recKey, success)
+    {
+        this.ignoreSet = ignoreSet;
+        
+    }
+
+    public static InternalSnapshotQueryBuilder Make()
+    {
+        return new InternalSnapshotQueryBuilder();
+    }
+
+    public static InternalSnapshotQueryResult MakeDB(string cmd,
+        bool success)
+    {
+        return new InternalSnapshotQueryResult(cmd, success);
+    }
+
+    public string Command() {
+        return command;
+    }
+
+
+    public int[] Results()
+    {
+        return results;
+    }
+
+    public int? RecordedKey()
+    {
+        return recKey;
+    }
+
+    public bool Success()
+    {
+        return success;
+    }
+
+    public void Validate(SnapshotDBOpResult other)
+    {
+        Assert.Equal(this.Success(), other.Success());   
+    }
+
+    public void Validate(SnapshotQueryResult other)
+    {
+        
+        Action[] actions = new Action[] { 
+            () => { Assert.Equal(this.Command(), other.Command()); }, 
+            () => { Assert.Equal(this.Results(), other.Results()); }, 
+            () => { Assert.Equal(this.RecordedKey(), other.RecordedKey()); },
+            () => { Assert.Equal(this.Success(), other.Success()); },
+        };
+
+        for(int i = 0; i < actions.Length; i++)
+        {
+            Assert.Equal(this.Success(), other.Success());
+            if(!this.ignoreSet[i])
+            {
+                actions[i]();
+            }
+        }
+    }
+}
+
+public class SnapshotTestScenarioOperation
+{
+    public Func<SnapshotQueryResult>? CurrentOperation = null;
+    public Func<SnapshotDBOpResult>? CurrentDBOperation = null;
+    public InternalSnapshotQueryResult? Expected = null;
+    public bool IsDBOperation = false;
+
+}
+
+public class SnapshotTestScenarioBuilder
+{
+    SnapshotTestScenarioOperation currentOperation =
+        new SnapshotTestScenarioOperation();
+
+    List<SnapshotTestScenarioOperation> operations =
+        new List<SnapshotTestScenarioOperation>();
+    
+
+    public SnapshotTestScenarioBuilder SetOperation(
+        Func<SnapshotQueryResult> operation)
+    {
+        currentOperation.CurrentOperation = operation;
+        return this;
+    }
+
+    public SnapshotTestScenarioBuilder SetDBOperation(
+        Func<SnapshotDBOpResult> operation
+    )
+    {
+        currentOperation.IsDBOperation = true;
+        currentOperation.CurrentDBOperation = operation;
+        return this;
+    }
+
+    public SnapshotTestScenarioBuilder SetExpected(
+        InternalSnapshotQueryResult expected
+    )
+    {
+        currentOperation.Expected = expected;
+        return this;   
+    }
+
+    public SnapshotTestScenarioBuilder Next()
+    {
+        if(currentOperation.IsDBOperation) {
+            if(currentOperation.CurrentDBOperation != null &&
+                currentOperation.Expected != null) {
+                operations.Add(currentOperation);
+            }
+            else
+            {
+                throw new Exception("Unable to construct next stage for Scenario");
+            }
+            currentOperation = new SnapshotTestScenarioOperation();
+            
+        } else {
+    
+            if(currentOperation.CurrentOperation != null &&
+                currentOperation.Expected != null) {
+                operations.Add(currentOperation);
+            }
+            else
+            {
+                throw new Exception("Unable to construct next stage for Scenario");
+            }
+            currentOperation = new SnapshotTestScenarioOperation();
+        }
+        return this;
+    }
+
+    public Action Done()
+    {
+        List<SnapshotTestScenarioOperation> ops = this.operations;
+        return () => {
+            foreach(var op in ops)
+            {
+                var exp = op.Expected;
+                
+                var queryOp = op.CurrentOperation;
+                var dbOp = op.CurrentDBOperation;
+
+                if(op.IsDBOperation) {
+                    exp.Validate(dbOp());
+                } else {
+                    exp.Validate(queryOp());
+                    
+                }
+            }
+        };
+    }
+
+    public void Run()
+    {
+        var testScenario = Done();
+        testScenario();
+    }
+
+    public static SnapshotTestScenarioBuilder Make()
+    {
+        return new SnapshotTestScenarioBuilder();
+    }
+}
+
+public class SnapshotTestUtil
+{
+
+    public static void ValidateResults(
+        SnapshotQueryResult actual,
+        InternalSnapshotQueryResult expected)
+    {
+        expected.Validate(actual);
+    }
+
+    public static Action MakeValidation(
+        SnapshotQueryResult actual,
+        InternalSnapshotQueryResult expected)
+    {
+        return () => ValidateResults(actual, expected);
+    }
+
+    public static SnapshotTestScenarioBuilder Start()
+    {
+        return SnapshotTestScenarioBuilder.Make();
+    }
+
+    public static InternalSnapshotQueryResult WithDB(string cmd,
+        bool expected)
+    {
+        return InternalSnapshotQueryResult.MakeDB(cmd, expected);
+    }
+
+}

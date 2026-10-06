@@ -1,0 +1,12 @@
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/bin/Release/net10.0/SnapshotKV.deps.json
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/bin/Release/net10.0/SnapshotKV.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/bin/Release/net10.0/SnapshotKV.pdb
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/SnapshotKV.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/SnapshotKV.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/SnapshotKV.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/SnapshotKV.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/SnapshotKV.sourcelink.json
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/SnapshotKV.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/refint/SnapshotKV.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/SnapshotKV.pdb
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV/obj/Release/net10.0/ref/SnapshotKV.dll

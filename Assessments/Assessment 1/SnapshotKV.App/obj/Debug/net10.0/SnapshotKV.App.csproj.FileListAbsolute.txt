@@ -1,0 +1,57 @@
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.deps.json
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.runtimeconfig.json
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.dll
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.pdb
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.dll
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.pdb
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.csproj.AssemblyReference.cache
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.AssemblyInfo.cs
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.sourcelink.json
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/Snapshot.CBB40218.Up2Date
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.dll
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/refint/SnapshotKV.App.dll
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.pdb
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.genruntimeconfig.cache
+/home/nesar/Desktop/Assessment 1 Coding /appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/ref/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/refint/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.pdb
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.deps.json
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.runtimeconfig.json
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.pdb
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.dll
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.pdb
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.csproj.AssemblyReference.cache
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.sourcelink.json
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/Snapshot.CBB40218.Up2Date
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/ref/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.deps.json
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.runtimeconfig.json
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.App.pdb
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.dll
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/bin/Debug/net10.0/SnapshotKV.pdb
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.csproj.AssemblyReference.cache
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.AssemblyInfoInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.AssemblyInfo.cs
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.sourcelink.json
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/Snapshot.CBB40218.Up2Date
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/refint/SnapshotKV.App.dll
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.pdb
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/SnapshotKV.App.genruntimeconfig.cache
+/home/nesar/Desktop/Programming/C Sharp/Assessment/appdev-assignment01-2026S1/project/SnapshotKV.App/obj/Debug/net10.0/ref/SnapshotKV.App.dll
