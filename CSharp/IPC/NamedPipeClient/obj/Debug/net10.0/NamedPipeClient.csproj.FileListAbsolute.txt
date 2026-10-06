@@ -1,0 +1,14 @@
+/home/nesar/Documents/IPC/NamedPipeClient/bin/Debug/net10.0/NamedPipeClient
+/home/nesar/Documents/IPC/NamedPipeClient/bin/Debug/net10.0/NamedPipeClient.deps.json
+/home/nesar/Documents/IPC/NamedPipeClient/bin/Debug/net10.0/NamedPipeClient.runtimeconfig.json
+/home/nesar/Documents/IPC/NamedPipeClient/bin/Debug/net10.0/NamedPipeClient.dll
+/home/nesar/Documents/IPC/NamedPipeClient/bin/Debug/net10.0/NamedPipeClient.pdb
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/NamedPipeClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/NamedPipeClient.AssemblyInfoInputs.cache
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/NamedPipeClient.AssemblyInfo.cs
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/NamedPipeClient.csproj.CoreCompileInputs.cache
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/NamedPipeClient.dll
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/refint/NamedPipeClient.dll
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/NamedPipeClient.pdb
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/NamedPipeClient.genruntimeconfig.cache
+/home/nesar/Documents/IPC/NamedPipeClient/obj/Debug/net10.0/ref/NamedPipeClient.dll
