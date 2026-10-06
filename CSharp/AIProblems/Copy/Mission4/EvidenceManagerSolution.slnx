@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EvidenceManager.Tests/EvidenceManager.Tests.csproj" />
+  <Project Path="EvidenceManager/EvidenceManager.csproj" />
+</Solution>

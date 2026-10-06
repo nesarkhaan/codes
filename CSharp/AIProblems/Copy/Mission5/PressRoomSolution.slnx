@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PressRoom.Tests/PressRoom.Tests.csproj" />
+  <Project Path="PressRoom/PressRoom.csproj" />
+</Solution>

@@ -1,0 +1,11 @@
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/bin/Debug/net10.0/SmartHome.deps.json
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/bin/Debug/net10.0/SmartHome.dll
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/bin/Debug/net10.0/SmartHome.pdb
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/SmartHome.AssemblyInfoInputs.cache
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/SmartHome.AssemblyInfo.cs
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/SmartHome.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/SmartHome.dll
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/refint/SmartHome.dll
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/SmartHome.pdb
+/home/nesar/Desktop/AIProblems/Mission1/SmartHome/obj/Debug/net10.0/ref/SmartHome.dll

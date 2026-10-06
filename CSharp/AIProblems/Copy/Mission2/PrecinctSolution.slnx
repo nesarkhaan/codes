@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Precinct.Tests/Precinct.Tests.csproj" />
+  <Project Path="Precinct/Precinct.csproj" />
+</Solution>

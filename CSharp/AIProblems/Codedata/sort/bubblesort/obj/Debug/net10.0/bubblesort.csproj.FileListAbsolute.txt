@@ -1,0 +1,14 @@
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/bin/Debug/net10.0/bubblesort
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/bin/Debug/net10.0/bubblesort.deps.json
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/bin/Debug/net10.0/bubblesort.runtimeconfig.json
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/bin/Debug/net10.0/bubblesort.dll
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/bin/Debug/net10.0/bubblesort.pdb
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/bubblesort.AssemblyInfoInputs.cache
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/bubblesort.AssemblyInfo.cs
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/bubblesort.csproj.CoreCompileInputs.cache
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/bubblesort.dll
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/refint/bubblesort.dll
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/bubblesort.pdb
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/bubblesort.genruntimeconfig.cache
+/home/nesar/Desktop/AIProblems/Codedata/sort/bubblesort/obj/Debug/net10.0/ref/bubblesort.dll

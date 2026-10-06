@@ -1,0 +1,28 @@
+# Cheat Sheet: Dictionaries & Logic
+
+**1. Reading from a Dictionary of Lists:**
+When your dictionary is setup as `Dictionary<string, List<Product>>`, searching it takes two steps:
+```csharp
+// Step 1: Does the category (the Key) exist?
+if (Inventory.ContainsKey("Milk")) 
+{
+    // Step 2: Loop through the List of Milk products (the Value)
+    foreach (Product p in Inventory["Milk"]) 
+    {
+        if (p.GetBrand() == targetBrand) 
+        {
+            // Found it!
+        }
+    }
+}
+
+
+2. The Random Roll:
+To simulate the theft attempt, use the Random class.
+
+C#
+Random dice = new Random();
+int roll = dice.Next(1, 11); // Generates a number from 1 up to (but not including) 11.
+3. Formatting Currency:
+If your total is a double, you can format it as money inside a string using :C.
+$"Thank you for paying {totalPrice:C}."

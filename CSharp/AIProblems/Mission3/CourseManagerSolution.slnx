@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CourseManager.Tests/CourseManager.Tests.csproj" />
+  <Project Path="CourseManager/CourseManager.csproj" />
+</Solution>
