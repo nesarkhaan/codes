@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\bin\Debug\net10.0\MemoryMappedFiles.exe
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\bin\Debug\net10.0\MemoryMappedFiles.deps.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\bin\Debug\net10.0\MemoryMappedFiles.runtimeconfig.json
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\bin\Debug\net10.0\MemoryMappedFiles.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\bin\Debug\net10.0\MemoryMappedFiles.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\MemoryMappedFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\MemoryMappedFiles.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\MemoryMappedFiles.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\MemoryMappedFiles.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\MemoryMappedFiles.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\refint\MemoryMappedFiles.dll
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\MemoryMappedFiles.pdb
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\MemoryMappedFiles.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Development\C Sharp\Lab\MemoryMappedFiles\obj\Debug\net10.0\ref\MemoryMappedFiles.dll
